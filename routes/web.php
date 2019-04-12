@@ -34,7 +34,7 @@ Route::get('store', function () {
 
 
 
-Route::get('fo', function () {
+Route::get('foo', function () {
     return 'welcome';
 });
 
